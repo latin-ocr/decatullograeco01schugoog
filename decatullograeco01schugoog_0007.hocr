@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./decatullograeco01schugoog_0007.png"; bbox 0 0 825 1229; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 186 292 585 334">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 186 292 585 334">
+     <span class='ocr_line' id='line_1_1' title="bbox 186 292 585 334; baseline 0 -9"><span class='ocrx_word' id='word_1_1' title='bbox 186 292 357 326; x_wconf 81' lang='lat' dir='ltr'>Aemilio</span> <span class='ocrx_word' id='word_1_2' title='bbox 379 292 585 334; x_wconf 82' lang='lat' dir='ltr'><strong>Kahleyss</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 79 454 687 486">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 79 454 687 486">
+     <span class='ocr_line' id='line_1_2' title="bbox 79 454 687 486; baseline 0.002 -11"><span class='ocrx_word' id='word_1_3' title='bbox 79 454 168 476; x_wconf 77' lang='lat' dir='ltr'><strong>avunculo</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 185 454 292 482; x_wconf 74' lang='lat' dir='ltr'>carissimo,</span> <span class='ocrx_word' id='word_1_5' title='bbox 313 454 373 486; x_wconf 17' lang='lat' dir='ltr'><strong>hasce«</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 391 455 492 476; x_wconf 72' lang='lat' dir='ltr'><strong>studiorum</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 507 461 582 476; x_wconf 73' lang='lat' dir='ltr'>suorum</span> <span class='ocrx_word' id='word_1_8' title='bbox 597 455 687 482; x_wconf 74' lang='lat' dir='ltr'>primitias</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 285 599 475 624">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 285 599 475 624">
+     <span class='ocr_line' id='line_1_3' title="bbox 285 599 475 624; baseline 0 -6"><span class='ocrx_word' id='word_1_9' title='bbox 285 599 312 624; x_wconf 72' lang='lat' dir='ltr'><strong>pl·</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 326 601 409 623; x_wconf 67' lang='lat' dir='ltr'>gul-que</span> <span class='ocrx_word' id='word_1_11' title='bbox 423 599 475 618; x_wconf 70' lang='lat' dir='ltr'><strong>ulna</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 344 773 413 790">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 344 773 413 790">
+     <span class='ocr_line' id='line_1_4' title="bbox 344 773 413 790; baseline -0.014 0"><span class='ocrx_word' id='word_1_12' title='bbox 344 773 359 790; x_wconf 85' lang='lat' dir='ltr'><strong>d.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 370 774 386 790; x_wconf 83' lang='lat' dir='ltr'><strong>d.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 393 774 413 790; x_wconf 62' lang='lat'><strong>41.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
